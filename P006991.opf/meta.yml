@@ -3,5 +3,18 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W3CN6849
   title: ནུབ་ཁུལ་གྱི་སྐྱེས་ཁམས་ཁོར་ཡུག་སྲུང་སྐྱོབས་དང་འཛུགས་སྐྲུན་བྱེད་པའི་ཚན་རྩལ་ཤེས་བྱའི་དྲི་བ་དྲིས་ལན།
-  volume: ''
+  volume:
+    43e3300115c94842ba40f804844b9421:
+      image_group_id: I3CN6851
+      title: Volume 1 of nub khul gyi skyes khams khor yug srung skyobs dang 'dzugs
+        skrun byed pa'i tshan rtsal shes bya'i dri ba dris lan/
+      volume_number: 1
+      total_pages: 110
   author: ''
+ebook_metadata:
+  title: ནུབ་ཁུལ་གྱི་སྐྱེས་ཁམས་ཁོར་ཡུག་སྲུང་སྐྱོབས་དང་འཛུགས་སྐྲུན་བྱེད་པའི་ཚན་རྩལ་ཤེས་བྱའི་དྲི་བ་དྲིས་ལན།
+  author: ''
+  sku: P006991
+  cover: cover.jpg
+  layers:
+  - pagination
